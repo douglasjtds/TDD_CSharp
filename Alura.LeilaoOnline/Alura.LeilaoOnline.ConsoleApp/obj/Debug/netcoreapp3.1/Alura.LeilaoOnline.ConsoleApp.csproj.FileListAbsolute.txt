@@ -1,0 +1,16 @@
+D:\Users\douglasjtds\Projects\estudandoBackend\TDD_CSharp\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.exe
+D:\Users\douglasjtds\Projects\estudandoBackend\TDD_CSharp\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.deps.json
+D:\Users\douglasjtds\Projects\estudandoBackend\TDD_CSharp\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.runtimeconfig.json
+D:\Users\douglasjtds\Projects\estudandoBackend\TDD_CSharp\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.runtimeconfig.dev.json
+D:\Users\douglasjtds\Projects\estudandoBackend\TDD_CSharp\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.dll
+D:\Users\douglasjtds\Projects\estudandoBackend\TDD_CSharp\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.pdb
+D:\Users\douglasjtds\Projects\estudandoBackend\TDD_CSharp\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.Core.dll
+D:\Users\douglasjtds\Projects\estudandoBackend\TDD_CSharp\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.Core.pdb
+D:\Users\douglasjtds\Projects\estudandoBackend\TDD_CSharp\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.csprojAssemblyReference.cache
+D:\Users\douglasjtds\Projects\estudandoBackend\TDD_CSharp\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.AssemblyInfoInputs.cache
+D:\Users\douglasjtds\Projects\estudandoBackend\TDD_CSharp\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.AssemblyInfo.cs
+D:\Users\douglasjtds\Projects\estudandoBackend\TDD_CSharp\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Users\douglasjtds\Projects\estudandoBackend\TDD_CSharp\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.csproj.CopyComplete
+D:\Users\douglasjtds\Projects\estudandoBackend\TDD_CSharp\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.dll
+D:\Users\douglasjtds\Projects\estudandoBackend\TDD_CSharp\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.pdb
+D:\Users\douglasjtds\Projects\estudandoBackend\TDD_CSharp\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.ConsoleApp.genruntimeconfig.cache

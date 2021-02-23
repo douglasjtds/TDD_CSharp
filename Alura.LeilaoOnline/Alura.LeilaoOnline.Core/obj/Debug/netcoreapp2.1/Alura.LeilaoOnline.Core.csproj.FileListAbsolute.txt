@@ -1,0 +1,9 @@
+D:\Users\douglasjtds\Projects\estudandoBackend\TDD_CSharp\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.deps.json
+D:\Users\douglasjtds\Projects\estudandoBackend\TDD_CSharp\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.dll
+D:\Users\douglasjtds\Projects\estudandoBackend\TDD_CSharp\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.pdb
+D:\Users\douglasjtds\Projects\estudandoBackend\TDD_CSharp\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.csprojAssemblyReference.cache
+D:\Users\douglasjtds\Projects\estudandoBackend\TDD_CSharp\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.AssemblyInfoInputs.cache
+D:\Users\douglasjtds\Projects\estudandoBackend\TDD_CSharp\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.AssemblyInfo.cs
+D:\Users\douglasjtds\Projects\estudandoBackend\TDD_CSharp\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.csproj.CoreCompileInputs.cache
+D:\Users\douglasjtds\Projects\estudandoBackend\TDD_CSharp\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.dll
+D:\Users\douglasjtds\Projects\estudandoBackend\TDD_CSharp\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.pdb
