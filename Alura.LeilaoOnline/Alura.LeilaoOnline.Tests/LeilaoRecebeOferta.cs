@@ -18,6 +18,7 @@ namespace Alura.LeilaoOnline.Tests
             var leilao = new Leilao("Van Gogh");
             var fulano = new Interessada("Fulano", leilao);
 
+            leilao.IniciaPregao();
             foreach (var valor in ofertas)
             {
                 leilao.RecebeLance(fulano, valor);
@@ -30,6 +31,24 @@ namespace Alura.LeilaoOnline.Tests
             //Assert
             var qtdeObtida = leilao.Lances.Count();
             Assert.Equal(qtdeEsperada, qtdeObtida);
+        }
+
+        [Theory]
+        [InlineData(new double[] { 200, 300, 400, 500 })]
+        [InlineData(new double[] { 200 })]
+        [InlineData(new double[] { 200, 300, 400 })]
+        [InlineData(new double[] { 200, 300, 400, 500, 600, 700 })]
+        public void QtdePermaneceZeroDadoQuePregaoNaoFoiIniciado(double[] ofertas)
+        {
+            var leilao = new Leilao("Van Gogh");
+            var fulano = new Interessada("Fulano de Tal", leilao);
+
+            foreach (var valor in ofertas)
+            {
+                leilao.RecebeLance(fulano, valor);
+            }
+
+            Assert.Equal(0, leilao.Lances.Count());
         }
     }
 }
