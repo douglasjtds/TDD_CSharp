@@ -66,5 +66,7 @@ namespace Alura.LeilaoOnline.Tests
 
             Assert.Equal(valorEsperado, valorObtido);
         }
+
+        
     }
 }
