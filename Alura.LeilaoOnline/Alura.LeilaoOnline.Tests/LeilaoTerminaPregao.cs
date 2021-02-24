@@ -34,12 +34,28 @@ namespace Alura.LeilaoOnline.Tests
             Assert.Equal(valorEsperado, valorObtido);
         }
 
-        
+        [Fact]
+        public void LancaInvalidOperationExceptionDadoPregaoNaoIniciado()
+        {
+            //Arrange
+            var leilao = new Leilao("Van Gogh");
+
+            //Assert
+            var excecaoObtida = Assert.Throws<System.InvalidOperationException>(
+                    //Act
+                    () => leilao.TerminaPregao()
+                );
+
+            var msgEsperada = "Não é possível terminar o pregão sem que ele tenha iniciado.";
+            Assert.Equal(msgEsperada, excecaoObtida.Message);
+        }
+
         [Fact]
         public void RetornaZeroDadoLeilaoSemLances()
         {
             //Arrange
             var leilao = new Leilao("Van Gogh");
+            leilao.IniciaPregao();
 
             //Act
             leilao.TerminaPregao();
