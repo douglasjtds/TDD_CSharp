@@ -13,17 +13,17 @@ namespace Alura.LeilaoOnline.ConsoleApp
 
         private static void LeilaoComApenasUmLance()
         {
-            //arranje
+            //Arrange
             var modalidade = new MaiorValor();
             var leilao = new Leilao("Van Gogh", modalidade);
             var fulano = new Interessada("Fulano", leilao);
 
-            //act
+            //Act
             leilao.RecebeLance(fulano, 800);
 
             leilao.TerminaPregao();
 
-            //assert
+            //Assert
             var valorEsperado = 800;
             var valorObtido = leilao.Ganhador.Valor;
             Verifica(valorEsperado, valorObtido);
@@ -31,13 +31,13 @@ namespace Alura.LeilaoOnline.ConsoleApp
 
         private static void LeilaoComVariosLances()
         {
-            //arranje
+            //Arrange
             var modalidade = new MaiorValor();
             var leilao = new Leilao("Van Gogh", modalidade);
             var fulano = new Interessada("Fulano", leilao);
             var maria = new Interessada("Maria", leilao);
 
-            //act
+            //Act
             leilao.RecebeLance(fulano, 800);
             leilao.RecebeLance(maria, 900);
             leilao.RecebeLance(fulano, 1000);
@@ -45,7 +45,7 @@ namespace Alura.LeilaoOnline.ConsoleApp
 
             leilao.TerminaPregao();
 
-            //assert
+            //Assert
             var valorEsperado = 1200;
             var valorObtido = leilao.Ganhador.Valor;
 
